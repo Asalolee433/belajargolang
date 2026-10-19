@@ -8,7 +8,7 @@ func main() {
 	fmt.Println("Len :", len(s))
 	fmt.Println("Cap :", cap(s))
 
-	s = append(s, 10, 20)
+	s = append(s, 10, 20) // Menambahkan elemen baru ke bagian akhir dari slice
 	fmt.Println("Setelah di append :", s)
 
 	slice2 := make([]int,3)
