@@ -13,3 +13,22 @@ Apa itu konversi tipe data?
 
 1. Kadang kita punya data dengan tipe berbeda misalnya angka (integer) dan text (string). Nah biar bisa  dipake bareng kita perlu konversi tipe data
 2. Di Golang, konversi harus eksplisit (kita harus kasih tahu dengan jelas mau ubah tipe apa jadi apa)
+
+===================================================================================
+
+SLICE
+
+Slice itu mirip array, tapi lebih fleksibel. Ukurannya bisa berubah sesuai kebutuhan
+
+Slice ibaratnya pizza yang bisa kita potong potong sesuai selera
+
+3 Komponen utama Slice
+
+1. Pointer
+    Menunjuk ke elemen pertama dari array (ga selalu array ke-0, bisa ditengah)
+2. Length
+    Panjang slice saat ini
+3. Capacity
+    Kapasitas maksimum slice, dihitung dari posisi pointer hingga akhir array
+
+====================================================================================
