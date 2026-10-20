@@ -32,3 +32,8 @@ Slice ibaratnya pizza yang bisa kita potong potong sesuai selera
     Kapasitas maksimum slice, dihitung dari posisi pointer hingga akhir array
 
 ====================================================================================
+
+MAP
+
+Struktur data untuk menyimpan pasangan key-value
+Ibaratnya kaya kamus: kamu cari kata (key), lalu dapat artinya (value)
