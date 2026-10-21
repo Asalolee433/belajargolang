@@ -37,3 +37,9 @@ MAP
 
 Struktur data untuk menyimpan pasangan key-value
 Ibaratnya kaya kamus: kamu cari kata (key), lalu dapat artinya (value)
+
+====================================================================================
+
+Operasi Matematika dan aritmetika adalah operasi dasar yang digunakan untuk melakukan perhitungan pada angka 
+
+Di Golang, operasi ini bisa dilakukan pada tipe data numerik seperti int,float32 dan float64 
