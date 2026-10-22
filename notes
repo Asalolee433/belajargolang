@@ -31,7 +31,7 @@ Slice ibaratnya pizza yang bisa kita potong potong sesuai selera
 3. Capacity
     Kapasitas maksimum slice, dihitung dari posisi pointer hingga akhir array
 
-====================================================================================
+===================================================================================
 
 MAP
 
@@ -43,3 +43,13 @@ Ibaratnya kaya kamus: kamu cari kata (key), lalu dapat artinya (value)
 Operasi Matematika dan aritmetika adalah operasi dasar yang digunakan untuk melakukan perhitungan pada angka 
 
 Di Golang, operasi ini bisa dilakukan pada tipe data numerik seperti int,float32 dan float64 
+
+====================================================================================
+
+Operasi Perbandingan digunakan untuk membandingkan 2 nilai dan hasilnya selalu berupa boolean (true/false)
+
+AND(&&) digunakan untuk operasi perbandingan dengan kondisi semua harus benar dan baru menghasilkan true
+Or(||)  digunakan untuk operasi perbandingan dengan kondisi jika salah satu benar dan bisa menghasilkan true
+Not(!)  digunakan untuk membalikan hasil semisal !(5>3) itu true tapi jika menggunakan Not maka hasilnya akan false
+
+====================================================================================
