@@ -57,3 +57,5 @@ Not(!)  digunakan untuk membalikan hasil semisal !(5>3) itu true tapi jika mengg
 Pengkodisian IF adalah salah satu cara untuk membuat program mengambil keputusan berdasarkan suatu kondisi logika (benar atau salah) 
 
 IF di go tidak perlu menggunakan () tapi wajib menggunakan {} untuk menulis blok kode nya
+
+====================================================================================
