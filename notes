@@ -59,3 +59,8 @@ Pengkodisian IF adalah salah satu cara untuk membuat program mengambil keputusan
 IF di go tidak perlu menggunakan () tapi wajib menggunakan {} untuk menulis blok kode nya
 
 ====================================================================================
+
+Kalau if-else itu cocok dengan logika bercabang dengan syarat kompleks,
+maka switch expression lebih cocok dipakai kalau kita mau mengecek nilai dari satu variabel dengan banyak kemungkinan kasus
+
+====================================================================================
