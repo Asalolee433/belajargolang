@@ -64,3 +64,13 @@ Kalau if-else itu cocok dengan logika bercabang dengan syarat kompleks,
 maka switch expression lebih cocok dipakai kalau kita mau mengecek nilai dari satu variabel dengan banyak kemungkinan kasus
 
 ====================================================================================
+
+For-loop= di dalam go for adalah satu satunya loop yang tersedia tapi penggunaanya fleksibel dan bisa menggantika while dan do while di dalam bahasa pemrograman lain
+
+for inisialisasi; kondisi; post {
+    //blok kode yang akan diulang
+}
+
+inisialisasi->biasanya untuk mendeklarasikan variabel counter
+kondisi->ekspresi boolean, jika true maka loop berjalan
+post->kespresi yang dieksekusi setelah setiap iterasi (misalnya i++)
