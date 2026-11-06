@@ -74,3 +74,13 @@ for inisialisasi; kondisi; post {
 inisialisasi->biasanya untuk mendeklarasikan variabel counter
 kondisi->ekspresi boolean, jika true maka loop berjalan
 post->kespresi yang dieksekusi setelah setiap iterasi (misalnya i++)
+
+=====================================================================================
+
+Function adalah blok kode yang dijalankan untuk menjalankan tugas tertentu
+
+Function juga membantu kita untuk menghindari duplikasi kode, membuat program lebih terstruktur, dan lebih mudah dibaca serta dipelihara
+
+Dalam Go, semua fungsi didefinisikan dengan kata kunci func
+
+Parameter adalah variabel yang dikirimkan ke fungsi agar fungsi bisa bekerja dengan data yang berbeda-beda tanpa harus menulis kode ulang
